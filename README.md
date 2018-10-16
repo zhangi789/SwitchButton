@@ -87,4 +87,8 @@ More Style:
 
 License
 -------
-MIT, See the <a href="https://github.com/zhangi789/SwitchButton.git">[LICENSE]</a> file for details.
+MIT, See the <a href="https://github.com/zhangi789/SwitchButton.git">[LICENSE]</a> file for details.</br>
+
+DownLoad
+-------
+<img src="https://github.com/zhangi789/SwitchButton/blob/master/screenshot/SwitchButton2.png" width="40%" height="40%" div align=center>
